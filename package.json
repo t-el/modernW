@@ -1,0 +1,14 @@
+{
+  "name": "modernw",
+  "version": "1.0.0",
+  "description": "a modern web framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "elkarroumy taha",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6"
+  }
+}
